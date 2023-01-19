@@ -6,3 +6,5 @@
 
 ### "python"
 <img src = "https://mona.media/wp-content/uploads/2021/08/python.png">
+
+...
